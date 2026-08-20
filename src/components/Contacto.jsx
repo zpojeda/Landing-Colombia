@@ -4,7 +4,7 @@ function Contacto (){
         <section className="container py-5 contacto" >
             <h2 className="text-center">Contáctanos</h2>
             <p className="text-center">
-                ¿Tienes preguntas sobre algun destino? Escribenos aqui  
+                ¿Tienes preguntas sobre algun destino? Escribenos aqui y te respondemos en maximo 1 dia 
             </p>
             <div className="mb-3">
                 <label  className="form-label">Nombre</label>
